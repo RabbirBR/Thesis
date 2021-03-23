@@ -31,5 +31,9 @@ Chapter 4 in the thesis paper explains how the detection was Implemented. While 
 1. Four Advanced CNN Architectures were trained and tested to see which works best. They are - MobileNetV2, XceptionV1, ResNet152V2 and DenseNet201. Section 4.2 in the Thesis Paper explains in detail how the Training was implemented and the Testing setup.
 2. Section 4.3 explains the how the Object detection was implemented.
 
+## 5 Results
+Chapter 5 explains the results using several images for each of the models. Please refer to this section to see the results as it is hard to explain in just text. After testing, the results showed that the best model was determined to be ResNet152V2.
 
+## Conclusion
+The original questions asked in the thesis were all confirmed to be true.
 
