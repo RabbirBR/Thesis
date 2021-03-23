@@ -1,0 +1,5 @@
+learning_rate,model_path,history_path,time_taken,time_taken_hrs
+1e-06,trained_models/mobile_net_V2_1e-06.h5,trained_models/mobile_net_V2_history_1e-06.p,9538.895722866058,02:38:58.896
+1e-07,trained_models/mobile_net_V2_1e-07.h5,trained_models/mobile_net_V2_history_1e-07.p,9426.85070157051,02:37:6.851
+1e-08,trained_models/mobile_net_V2_1e-08.h5,trained_models/mobile_net_V2_history_1e-08.p,9501.544604301453,02:38:21.545
+1e-09,trained_models/mobile_net_V2_1e-09.h5,trained_models/mobile_net_V2_history_1e-09.p,9531.115901470184,02:38:51.116

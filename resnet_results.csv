@@ -1,0 +1,4 @@
+learning_rate,model_path,history_path,time_taken,time_taken_hrs
+1e-06,trained_models/resnet152_V2_1e-06.h5,trained_models/resnet152_V2_history_1e-06.p,40034.251675367355,11:07:14.252
+1e-07,trained_models/resnet152_V2_1e-07.h5,trained_models/resnet152_V2_history_1e-07.p,40118.439718961716,11:08:38.440
+1e-08,trained_models/resnet152_V2_1e-08.h5,trained_models/resnet152_V2_history_1e-08.p,40078.16151165962,11:07:58.162
